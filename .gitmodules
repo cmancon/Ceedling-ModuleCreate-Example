@@ -1,3 +1,6 @@
 [submodule "tools"]
 	path = tools
 	url = https://github.com/gicsafe-firmware/tools.git
+[submodule "third-party/Ceedling"]
+	path = third-party/Ceedling
+	url = https://github.com/cmancon/Ceedling.git

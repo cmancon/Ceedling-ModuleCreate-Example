@@ -14,7 +14,7 @@
  */
 
 /**
- *  \file   module.h
+ *  \file   %1$s.h
  *  \brief  Specifies this module.
  */
 
@@ -29,11 +29,11 @@
 
 /* --------------------------------- Notes --------------------------------- */
 /* --------------------------------- Module -------------------------------- */
-#ifndef __MODULE_H__
-#define __MODULE_H__
+#ifndef __%3$s_H__
+#define __%3$s_H__
 
 /* ----------------------------- Include files ----------------------------- */
-/* ---------------------- External C language linkage ---------------------- */
+%2$s/* ---------------------- External C language linkage ---------------------- */
 #ifdef __cplusplus
 extern "C" {
 #endif

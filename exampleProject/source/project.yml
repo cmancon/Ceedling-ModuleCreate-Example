@@ -20,7 +20,6 @@
     :src: ../../boilerplates/ceedlingModule/module.c
     :inc: ../../boilerplates/ceedlingModule/module.h
     :tst: ../../boilerplates/ceedlingModule/test_module.c
-  :project_root: ./noentiendo
   :source_root: src/
   :inc_root: inc/
   :test_root: test/
